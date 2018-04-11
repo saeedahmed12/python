@@ -1,0 +1,17 @@
+github "C:\Users\Ahmed\Dropbox\GIT\GIT-4.11.18"
+
+https://www.youtube.com/watch?v=xuB1Id2Wxak  start at min 48
+
+1. Create account on github
+2. Creat repository
+3. download git  https://git-scm.com/download/win/
+4. configuring  
+Ahmed@LAPTOP-V6TV0ATF MINGW64 ~
+$ git config --global user.name "Saeed Ahmed"
+
+Ahmed@LAPTOP-V6TV0ATF MINGW64 ~
+$ git config --global user.email "saeedahmed12@hotmail.com"
+
+5. pick a location on harddrive
+6. gitbash here
+7. 
